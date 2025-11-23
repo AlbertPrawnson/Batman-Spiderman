@@ -432,12 +432,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3aafbfbd3493a0b4d8f4be8dfb37ba33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HoverableObject
+  ingredientData: {fileID: 11400000, guid: 873f3cf4a027b3a42aef8ad1babad976, type: 2}
   hasHoverImages: 0
   unhoveredSprite: {fileID: 0}
   hoveredSprite: {fileID: 0}
   unhoveredColor: {r: 0.3830188, g: 0.96277595, b: 1, a: 1}
   hoveredColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   useDetectionRadius: 1
+  draggableIngredientPrefab: {fileID: 4817446681024377542, guid: 062c47747b88d5344a1c3cc0e209fa98, type: 3}
 --- !u!212 &910168476
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -678,12 +680,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3aafbfbd3493a0b4d8f4be8dfb37ba33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HoverableObject
+  ingredientData: {fileID: 11400000, guid: c68b7458a802db54e95bf5f99948bb11, type: 2}
   hasHoverImages: 0
   unhoveredSprite: {fileID: 0}
   hoveredSprite: {fileID: 0}
   unhoveredColor: {r: 0.8516178, g: 0, b: 1, a: 1}
   hoveredColor: {r: 0, g: 1, b: 0.119745255, a: 1}
   useDetectionRadius: 1
+  draggableIngredientPrefab: {fileID: 8262331484831140754, guid: bc5136598df4c404f80fd4178ca4f6d9, type: 3}
 --- !u!212 &1865516854
 SpriteRenderer:
   m_ObjectHideFlags: 0
