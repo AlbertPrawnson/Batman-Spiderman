@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: eae5beaaec00dfb4bb28bcab7dbec3c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6137575594174315650
+    second: RAW_PASTA_0
+  - first:
+      213: -182033306602057580
+    second: RAW_PASTA_1
+  - first:
+      213: 995455776663046601
+    second: RAW_PASTA_2
+  - first:
+      213: 6757006572060383048
+    second: RAW_PASTA_3
+  - first:
+      213: 2640697019299636905
+    second: RAW_PASTA_4
+  - first:
+      213: 3972643681401451565
+    second: RAW_PASTA_5
+  - first:
+      213: -583874173945074779
+    second: RAW_PASTA_6
+  - first:
+      213: 4678897727248486089
+    second: RAW_PASTA_7
+  - first:
+      213: 8995765557891350331
+    second: RAW_PASTA_8
+  - first:
+      213: -6392121251090727700
+    second: RAW_PASTA_9
+  - first:
+      213: 906663321416149310
+    second: RAW_PASTA_10
+  - first:
+      213: 532636424840376584
+    second: RAW_PASTA_11
+  - first:
+      213: 3208514979422147933
+    second: RAW_PASTA_12
+  - first:
+      213: 8964617263226320755
+    second: RAW_PASTA_13
+  - first:
+      213: 6302716513680496704
+    second: RAW_PASTA_14
+  - first:
+      213: -7267195825696552604
+    second: RAW_PASTA_15
+  - first:
+      213: 9184390573801390023
+    second: RAW_PASTA_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RAW_PASTA_0
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3513
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73022fe383f2daa0800000000000000
+      internalID: -6137575594174315650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_1
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 3525
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d1be0ca9497df0800000000000000
+      internalID: -182033306602057580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_2
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 3513
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c98c9531c190dd00800000000000000
+      internalID: 995455776663046601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_3
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 3470
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84793a85da5b5cd50800000000000000
+      internalID: 6757006572060383048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_4
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 3471
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a9c2b2f3a5a420800000000000000
+      internalID: 2640697019299636905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_5
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 3459
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d243229516aa12730800000000000000
+      internalID: 3972643681401451565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_6
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 3470
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abaa744889a5e7f0800000000000000
+      internalID: -583874173945074779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_7
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 3454
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce470d61b8cee040800000000000000
+      internalID: 4678897727248486089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_8
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1542
+        width: 2661
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fbec00d1167dc70800000000000000
+      internalID: 8995765557891350331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_9
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 3416
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecf28bc69f9a47a0800000000000000
+      internalID: -6392121251090727700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_10
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3388
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39a2e3bc7d159c00800000000000000
+      internalID: 906663321416149310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_11
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 3389
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017b01a10e446700800000000000000
+      internalID: 532636424840376584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_12
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 2912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d551af4df5fe68c20800000000000000
+      internalID: 3208514979422147933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_13
+      rect:
+        serializedVersion: 2
+        x: 4772
+        y: 2810
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37770f187e7b86c70800000000000000
+      internalID: 8964617263226320755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_14
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1357
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481ae5a64fb77750800000000000000
+      internalID: 6302716513680496704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_15
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1336
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469c72856ebb52b90800000000000000
+      internalID: -7267195825696552604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAW_PASTA_16
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 1370
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb0edd092857f70800000000000000
+      internalID: 9184390573801390023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RAW_PASTA_0: -6137575594174315650
+      RAW_PASTA_1: -182033306602057580
+      RAW_PASTA_10: 906663321416149310
+      RAW_PASTA_11: 532636424840376584
+      RAW_PASTA_12: 3208514979422147933
+      RAW_PASTA_13: 8964617263226320755
+      RAW_PASTA_14: 6302716513680496704
+      RAW_PASTA_15: -7267195825696552604
+      RAW_PASTA_16: 9184390573801390023
+      RAW_PASTA_2: 995455776663046601
+      RAW_PASTA_3: 6757006572060383048
+      RAW_PASTA_4: 2640697019299636905
+      RAW_PASTA_5: 3972643681401451565
+      RAW_PASTA_6: -583874173945074779
+      RAW_PASTA_7: 4678897727248486089
+      RAW_PASTA_8: 8995765557891350331
+      RAW_PASTA_9: -6392121251090727700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

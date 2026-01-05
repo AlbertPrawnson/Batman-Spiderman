@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 767778a986b43464fb9b4179999d9236
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4341489842842414710
+    second: SOGGY_PASTA_0
+  - first:
+      213: 7972712608672983393
+    second: SOGGY_PASTA_1
+  - first:
+      213: 3498779468957873040
+    second: SOGGY_PASTA_2
+  - first:
+      213: 6376939864255671948
+    second: SOGGY_PASTA_3
+  - first:
+      213: 4110653882205282239
+    second: SOGGY_PASTA_4
+  - first:
+      213: -6435897327991619360
+    second: SOGGY_PASTA_5
+  - first:
+      213: 4502452026245744234
+    second: SOGGY_PASTA_6
+  - first:
+      213: -7489709986180408167
+    second: SOGGY_PASTA_7
+  - first:
+      213: -2921980690550330806
+    second: SOGGY_PASTA_8
+  - first:
+      213: -6556808839799366328
+    second: SOGGY_PASTA_9
+  - first:
+      213: 59945906732407088
+    second: SOGGY_PASTA_10
+  - first:
+      213: -6829389741960080659
+    second: SOGGY_PASTA_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SOGGY_PASTA_0
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 3470
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8159697dfdefb3c0800000000000000
+      internalID: -4341489842842414710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_1
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3388
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1692b3850e3c4ae60800000000000000
+      internalID: 7972712608672983393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_2
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 3417
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093f9a2c3692e8030800000000000000
+      internalID: 3498779468957873040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_3
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 3389
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eacf225017f7850800000000000000
+      internalID: 6376939864255671948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_4
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 3309
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf1d6b3de9fb0930800000000000000
+      internalID: 4110653882205282239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_5
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 3316
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e08c22aa791fa6a0800000000000000
+      internalID: -6435897327991619360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_6
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1542
+        width: 2661
+        height: 1715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a668d9a434ceb7e30800000000000000
+      internalID: 4502452026245744234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_7
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 2912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c550323743f0890800000000000000
+      internalID: -7489709986180408167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_8
+      rect:
+        serializedVersion: 2
+        x: 4772
+        y: 2810
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a62331b0a0377d0800000000000000
+      internalID: -2921980690550330806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_9
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1357
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d1e9389198105a0800000000000000
+      internalID: -6556808839799366328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_10
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1336
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039168c0c78f4d000800000000000000
+      internalID: 59945906732407088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOGGY_PASTA_11
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 1370
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2d5cd96322931a0800000000000000
+      internalID: -6829389741960080659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SOGGY_PASTA_0: -4341489842842414710
+      SOGGY_PASTA_1: 7972712608672983393
+      SOGGY_PASTA_10: 59945906732407088
+      SOGGY_PASTA_11: -6829389741960080659
+      SOGGY_PASTA_2: 3498779468957873040
+      SOGGY_PASTA_3: 6376939864255671948
+      SOGGY_PASTA_4: 4110653882205282239
+      SOGGY_PASTA_5: -6435897327991619360
+      SOGGY_PASTA_6: 4502452026245744234
+      SOGGY_PASTA_7: -7489709986180408167
+      SOGGY_PASTA_8: -2921980690550330806
+      SOGGY_PASTA_9: -6556808839799366328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

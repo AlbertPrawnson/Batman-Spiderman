@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 44bbddd49355c9249806e98a117a95f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5786962310340553499
+    second: POT_W_WATER_0
+  - first:
+      213: 7883887878604216282
+    second: POT_W_WATER_1
+  - first:
+      213: -1424749226832576119
+    second: POT_W_WATER_2
+  - first:
+      213: 6517527106935539442
+    second: POT_W_WATER_3
+  - first:
+      213: -2450020858913364861
+    second: POT_W_WATER_4
+  - first:
+      213: 6621001545664648074
+    second: POT_W_WATER_5
+  - first:
+      213: 8295691709923410174
+    second: POT_W_WATER_6
+  - first:
+      213: -4268879101560080916
+    second: POT_W_WATER_7
+  - first:
+      213: -1504600095860967294
+    second: POT_W_WATER_8
+  - first:
+      213: -958054987145183073
+    second: POT_W_WATER_9
+  - first:
+      213: -8214140264166963121
+    second: POT_W_WATER_10
+  - first:
+      213: -6111092598964188719
+    second: POT_W_WATER_11
+  - first:
+      213: 1762231374786953088
+    second: POT_W_WATER_12
+  - first:
+      213: -6626543866867017606
+    second: POT_W_WATER_13
+  - first:
+      213: -7469043487386952229
+    second: POT_W_WATER_14
+  - first:
+      213: -477802645935313540
+    second: POT_W_WATER_15
+  - first:
+      213: 2914905256993708844
+    second: POT_W_WATER_16
+  - first:
+      213: 5230127633143893307
+    second: POT_W_WATER_17
+  - first:
+      213: -8903836389174695872
+    second: POT_W_WATER_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: POT_W_WATER_0
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3513
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b2c648f8b6f4050800000000000000
+      internalID: 5786962310340553499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_1
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 3525
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad756354142396d60800000000000000
+      internalID: 7883887878604216282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_2
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 3513
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981c1a870264a3ce0800000000000000
+      internalID: -1424749226832576119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_3
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 3470
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64fd65f58e27a50800000000000000
+      internalID: 6517527106935539442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_4
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 3471
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384eb247207cffdd0800000000000000
+      internalID: -2450020858913364861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_5
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 3459
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8357a283d582eb50800000000000000
+      internalID: 6621001545664648074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_6
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 3470
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0432068a7302370800000000000000
+      internalID: 8295691709923410174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_7
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 3416
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce53c6a1315e1c4c0800000000000000
+      internalID: -4268879101560080916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_8
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 3417
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288303d3f269e1be0800000000000000
+      internalID: -1504600095860967294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3388
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f908befa01e44b2f0800000000000000
+      internalID: -958054987145183073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_10
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 3389
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48481b33f2810e80800000000000000
+      internalID: -8214140264166963121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_11
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 3309
+        width: 124
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d98831c8a9013ba0800000000000000
+      internalID: -6111092598964188719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_12
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 3316
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f79324914b47810800000000000000
+      internalID: 1762231374786953088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_13
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 1542
+        width: 2661
+        height: 1715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7819d64679c904a0800000000000000
+      internalID: -6626543866867017606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_14
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 2912
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd1b5a5580a85890800000000000000
+      internalID: -7469043487386952229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_15
+      rect:
+        serializedVersion: 2
+        x: 4772
+        y: 2810
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da84866018e59f0800000000000000
+      internalID: -477802645935313540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_16
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1357
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b570d23e2d37820800000000000000
+      internalID: 2914905256993708844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_17
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 1336
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0f773f55259840800000000000000
+      internalID: 5230127633143893307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: POT_W_WATER_18
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 1370
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048ab058af73f6480800000000000000
+      internalID: -8903836389174695872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      POT_W_WATER_0: 5786962310340553499
+      POT_W_WATER_1: 7883887878604216282
+      POT_W_WATER_10: -8214140264166963121
+      POT_W_WATER_11: -6111092598964188719
+      POT_W_WATER_12: 1762231374786953088
+      POT_W_WATER_13: -6626543866867017606
+      POT_W_WATER_14: -7469043487386952229
+      POT_W_WATER_15: -477802645935313540
+      POT_W_WATER_16: 2914905256993708844
+      POT_W_WATER_17: 5230127633143893307
+      POT_W_WATER_18: -8903836389174695872
+      POT_W_WATER_2: -1424749226832576119
+      POT_W_WATER_3: 6517527106935539442
+      POT_W_WATER_4: -2450020858913364861
+      POT_W_WATER_5: 6621001545664648074
+      POT_W_WATER_6: 8295691709923410174
+      POT_W_WATER_7: -4268879101560080916
+      POT_W_WATER_8: -1504600095860967294
+      POT_W_WATER_9: -958054987145183073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
