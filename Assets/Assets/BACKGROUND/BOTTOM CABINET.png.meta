@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3d3fd583534098946b0ef697f0f3e403
+guid: 451155f53ec7dd74daf3f14e887dd732
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6537016365842579890
-    second: MINI GAME 1_0
+      213: 4762456823730569268
+    second: BOTTOM CABINET_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MINI GAME 1_0
+      name: BOTTOM CABINET_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 7016
-        height: 4961
+        width: 3508
+        height: 2481
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b146f800c528ba50800000000000000
-      internalID: 6537016365842579890
+      spriteID: 4308894af35a71240800000000000000
+      internalID: 4762456823730569268
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MINI GAME 1_0: 6537016365842579890
+      BOTTOM CABINET_0: 4762456823730569268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
