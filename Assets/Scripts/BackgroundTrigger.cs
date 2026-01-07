@@ -1,12 +1,15 @@
 using UnityEngine;
 
-public class BackgroundTrigger : MonoBehaviour
+public class TriggerZone : MonoBehaviour
 {
-    public BackgroundManager backgroundManager;  // Reference to the BackgroundManager
-    public int backgroundIndex;  // Index of the background to change to
+    public BackgroundManager manager;
+    public int zoneId = 1; // 1 => background2, 2 => background3
 
-    private void OnMouseDown()
+    private void OnTriggerEnter(Collider other)
     {
-        backgroundManager.ChangeBackground(backgroundIndex);  // Change the background on click
+        if (!other.CompareTag("Player")) return;
+
+        if (zoneId == 1) manager.TriggerBackground2();
+        else if (zoneId == 2) manager.TriggerBackground3();
     }
 }

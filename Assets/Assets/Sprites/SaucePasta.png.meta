@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 767778a986b43464fb9b4179999d9236
+guid: 560c50a6125fdcd47a214dab784001a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4341489842842414710
-    second: SOGGY_PASTA_0
+      213: -4517264332355379706
+    second: SaucePasta_0
   - first:
-      213: 7972712608672983393
-    second: SOGGY_PASTA_1
+      213: 4467839695005950329
+    second: SaucePasta_1
   - first:
-      213: 3498779468957873040
-    second: SOGGY_PASTA_2
+      213: -1949161607662268310
+    second: SaucePasta_2
   - first:
-      213: 6376939864255671948
-    second: SOGGY_PASTA_3
+      213: -7615858023724564377
+    second: SaucePasta_3
   - first:
-      213: 4110653882205282239
-    second: SOGGY_PASTA_4
+      213: -166219808406983041
+    second: SaucePasta_4
   - first:
-      213: -6435897327991619360
-    second: SOGGY_PASTA_5
+      213: -9131455999125301999
+    second: SaucePasta_5
   - first:
-      213: 4502452026245744234
-    second: SOGGY_PASTA_6
+      213: -1895786671068005729
+    second: SaucePasta_6
   - first:
-      213: -7489709986180408167
-    second: SOGGY_PASTA_7
+      213: -4598247228403750734
+    second: SaucePasta_7
   - first:
-      213: -2921980690550330806
-    second: SOGGY_PASTA_8
+      213: 6260439738562703507
+    second: SaucePasta_8
   - first:
-      213: -6556808839799366328
-    second: SOGGY_PASTA_9
+      213: 5381026226003483608
+    second: SaucePasta_9
   - first:
-      213: 59945906732407088
-    second: SOGGY_PASTA_10
+      213: -4944085911756302276
+    second: SaucePasta_10
   - first:
-      213: -6829389741960080659
-    second: SOGGY_PASTA_11
+      213: -4594470948390536979
+    second: SaucePasta_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,7 +146,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SOGGY_PASTA_0
+      name: SaucePasta_0
       rect:
         serializedVersion: 2
         x: 3181
@@ -154,21 +154,21 @@ TextureImporter:
         width: 82
         height: 45
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8159697dfdefb3c0800000000000000
-      internalID: -4341489842842414710
+      spriteID: 60e5a61f5047f41c0800000000000000
+      internalID: -4517264332355379706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_1
+      name: SaucePasta_1
       rect:
         serializedVersion: 2
         x: 2808
@@ -176,21 +176,21 @@ TextureImporter:
         width: 39
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1692b3850e3c4ae60800000000000000
-      internalID: 7972712608672983393
+      spriteID: 971283ee784f00e30800000000000000
+      internalID: 4467839695005950329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_2
+      name: SaucePasta_2
       rect:
         serializedVersion: 2
         x: 2952
@@ -198,21 +198,21 @@ TextureImporter:
         width: 23
         height: 46
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 093f9a2c3692e8030800000000000000
-      internalID: 3498779468957873040
+      spriteID: a60167d48df23f4e0800000000000000
+      internalID: -1949161607662268310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_3
+      name: SaucePasta_3
       rect:
         serializedVersion: 2
         x: 2870
@@ -220,21 +220,21 @@ TextureImporter:
         width: 40
         height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c8eacf225017f7850800000000000000
-      internalID: 6376939864255671948
+      spriteID: 760c61c5a790f4690800000000000000
+      internalID: -7615858023724564377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_4
+      name: SaucePasta_4
       rect:
         serializedVersion: 2
         x: 2793
@@ -242,21 +242,21 @@ TextureImporter:
         width: 124
         height: 74
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fbf1d6b3de9fb0930800000000000000
-      internalID: 4110653882205282239
+      spriteID: f7ea44507f771bdf0800000000000000
+      internalID: -166219808406983041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_5
+      name: SaucePasta_5
       rect:
         serializedVersion: 2
         x: 2924
@@ -264,43 +264,43 @@ TextureImporter:
         width: 102
         height: 45
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e08c22aa791fa6a0800000000000000
-      internalID: -6435897327991619360
+      spriteID: 115d60a362d864180800000000000000
+      internalID: -9131455999125301999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_6
+      name: SaucePasta_6
       rect:
         serializedVersion: 2
         x: 2097
         y: 1542
-        width: 2716
-        height: 1772
+        width: 2661
+        height: 1715
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a668d9a434ceb7e30800000000000000
-      internalID: 4502452026245744234
+      spriteID: f9a32152110d0b5e0800000000000000
+      internalID: -1895786671068005729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_7
+      name: SaucePasta_7
       rect:
         serializedVersion: 2
         x: 4756
@@ -308,21 +308,21 @@ TextureImporter:
         width: 7
         height: 8
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99c550323743f0890800000000000000
-      internalID: -7489709986180408167
+      spriteID: 2b8e191228ebf20c0800000000000000
+      internalID: -4598247228403750734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_8
+      name: SaucePasta_8
       rect:
         serializedVersion: 2
         x: 4772
@@ -330,21 +330,21 @@ TextureImporter:
         width: 10
         height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4a62331b0a0377d0800000000000000
-      internalID: -2921980690550330806
+      spriteID: 390f4c2e5cc81e650800000000000000
+      internalID: 6260439738562703507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_9
+      name: SaucePasta_9
       rect:
         serializedVersion: 2
         x: 3331
@@ -352,21 +352,21 @@ TextureImporter:
         width: 61
         height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84d1e9389198105a0800000000000000
-      internalID: -6556808839799366328
+      spriteID: 8db9ff7b7de3daa40800000000000000
+      internalID: 5381026226003483608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_10
+      name: SaucePasta_10
       rect:
         serializedVersion: 2
         x: 3554
@@ -374,21 +374,21 @@ TextureImporter:
         width: 92
         height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 039168c0c78f4d000800000000000000
-      internalID: 59945906732407088
+      spriteID: c3890c2ee04136bb0800000000000000
+      internalID: -4944085911756302276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOGGY_PASTA_11
+      name: SaucePasta_11
       rect:
         serializedVersion: 2
         x: 3697
@@ -396,15 +396,15 @@ TextureImporter:
         width: 83
         height: 43
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de2d5cd96322931a0800000000000000
-      internalID: -6829389741960080659
+      spriteID: de87456d3092d30c0800000000000000
+      internalID: -4594470948390536979
       vertices: []
       indices: 
       edges: []
@@ -413,7 +413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7f18b0a5ded78e94f8a729ef6dd0bd27
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -423,18 +423,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SOGGY_PASTA_0: -4341489842842414710
-      SOGGY_PASTA_1: 7972712608672983393
-      SOGGY_PASTA_10: 59945906732407088
-      SOGGY_PASTA_11: -6829389741960080659
-      SOGGY_PASTA_2: 3498779468957873040
-      SOGGY_PASTA_3: 6376939864255671948
-      SOGGY_PASTA_4: 4110653882205282239
-      SOGGY_PASTA_5: -6435897327991619360
-      SOGGY_PASTA_6: 4502452026245744234
-      SOGGY_PASTA_7: -7489709986180408167
-      SOGGY_PASTA_8: -2921980690550330806
-      SOGGY_PASTA_9: -6556808839799366328
+      SaucePasta_0: -4517264332355379706
+      SaucePasta_1: 4467839695005950329
+      SaucePasta_10: -4944085911756302276
+      SaucePasta_11: -4594470948390536979
+      SaucePasta_2: -1949161607662268310
+      SaucePasta_3: -7615858023724564377
+      SaucePasta_4: -166219808406983041
+      SaucePasta_5: -9131455999125301999
+      SaucePasta_6: -1895786671068005729
+      SaucePasta_7: -4598247228403750734
+      SaucePasta_8: 6260439738562703507
+      SaucePasta_9: 5381026226003483608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
